@@ -42,7 +42,7 @@ RSpec.configure do |config|
   # based on their file location, for example enabling you to call `get` and
   # `post` in specs under `spec/controllers`.
   #
-  # You can disable this behaviour by removing the line below, and instead
+  # You can disable this behavior by removing the line below, and instead
   # explicitly tag your specs with their type, e.g.:
   #
   #     RSpec.describe UsersController, :type => :controller do
